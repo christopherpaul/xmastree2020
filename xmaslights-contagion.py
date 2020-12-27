@@ -217,4 +217,4 @@ def xmaslight(simulate=False):
 
 
 # yes, I just put this at the bottom so it auto runs
-xmaslight(False)
+xmaslight(True)
